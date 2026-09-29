@@ -1,0 +1,6 @@
+Place your .mid or .midi files in this folder.
+
+Recommended:
+- Use several royalty-free / legally usable MIDI files.
+- Classical MIDI files are a good starting point.
+- More files = more training patterns.
